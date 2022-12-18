@@ -6,7 +6,7 @@
 * [一、让自己成为有行情的男人](yi-ge-can-ku-de-shi-shi.md)
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
-* [筛选，重中之重](shai-xuan-zhong-zhong-zhi-zhong.md)
+* [二、筛选，重中之重](shai-xuan-zhong-zhong-zhi-zhong.md)
 * [把妹学习路径](ba-mei-xue-xi-lu-jing.md)
 
 ## 聊天篇
