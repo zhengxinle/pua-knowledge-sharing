@@ -78,6 +78,8 @@
 
 ​	   不过我后来把那堆人踢了，也趁机pua了子杨一把，你们看截图。
 
+​		![ziyang1.jpg](https://raw.githubusercontent.com/zhengxinle/pua-knowledge-sharing.github.io/main/images/ziyang1.jpg)
+
 ​      
 
 
