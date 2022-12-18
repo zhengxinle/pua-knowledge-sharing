@@ -1,7 +1,6 @@
 # Table of contents
 
 * [写在前面](README.md)
-  * [readme](README.md)
   * [把妹学习的必要性](xie-zai-qian-mian/ba-mei-xue-xi-de-bi-yao-xing.md)
   * [我对情感导师行业的看法](xie-zai-qian-mian/wo-dui-qing-gan-dao-shi-hang-ye-de-kan-fa.md)
 * [一个残酷的事实](yi-ge-can-ku-de-shi-shi.md)
