@@ -7,9 +7,9 @@
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
   * [搭讪有用吗](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
+* [二、聊天篇](er-liao-tian-pian/README.md)
+  * [聊天的前提](er-liao-tian-pian/liao-tian-de-qian-ti.md)
+  * [聊天指导思想](er-liao-tian-pian/liao-tian-zhi-dao-si-xiang.md)
+  * [聊天的具体怎么做](er-liao-tian-pian/liao-tian-de-ju-ti-zen-mo-zuo.md)
 * [二、筛选，重中之重](shai-xuan-zhong-zhong-zhi-zhong.md)
 * [把妹学习路径](ba-mei-xue-xi-lu-jing.md)
-
-## 聊天篇
-
-* [聊天的前提](liao-tian-pian/liao-tian-de-qian-ti.md)
