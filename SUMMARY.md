@@ -6,6 +6,7 @@
 * [一、让自己成为有行情的男人](yi-ge-can-ku-de-shi-shi.md)
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
+  * [软件收集资源](yi-ge-can-ku-de-shi-shi/ruan-jian-shou-ji-zi-yuan.md)
   * [搭讪有用吗](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
 * [二、聊天篇](er-liao-tian-pian/README.md)
   * [聊天的前提](liao-tian-pian/liao-tian-de-qian-ti.md)
