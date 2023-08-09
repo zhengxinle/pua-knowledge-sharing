@@ -20,5 +20,5 @@
     * [走心交流](er-liao-tian-pian/liao-tian-hua-shu-can-kao-shou-ce/zou-xin-jiao-liu.md)
 * [三、约会篇](san-yue-hui-pian.md)
 * [四、夜店篇](si-ye-dian-pian.md)
-* [rubbish筛选，重中之重](shai-xuan-zhong-zhong-zhi-zhong.md)
+* [筛选，重中之重](shai-xuan-zhong-zhong-zhi-zhong.md)
 * [把妹学习路径](ba-mei-xue-xi-lu-jing.md)
