@@ -18,4 +18,4 @@
 请联系我：\
 wechat:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
