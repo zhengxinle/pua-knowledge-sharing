@@ -16,5 +16,6 @@
 3. 你想有wx群一起交流，结交靠谱兄弟一起玩
 
 请联系我：\
-wechat:\
+wechat号(base64解密):MTM1MjIyNjQ1MzE=\
+wechat 二维码:\
 ![](.gitbook/assets/image.png)
