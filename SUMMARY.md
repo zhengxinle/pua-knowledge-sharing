@@ -1,6 +1,7 @@
 # Table of contents
 
 * [写在前面](README.md)
+  * [自述](readme/zi-shu.md)
   * [把妹学习的必要性](xie-zai-qian-mian/ba-mei-xue-xi-de-bi-yao-xing.md)
   * [我对情感导师行业的看法](xie-zai-qian-mian/wo-dui-qing-gan-dao-shi-hang-ye-de-kan-fa.md)
   * [微信群聊的误导性](readme/wei-xin-qun-liao-de-wu-dao-xing.md)
@@ -20,5 +21,6 @@
     * [浪漫话术](er-liao-tian-pian/liao-tian-hua-shu-can-kao-shou-ce/lang-man-hua-shu.md)
     * [走心交流](er-liao-tian-pian/liao-tian-hua-shu-can-kao-shou-ce/zou-xin-jiao-liu.md)
   * [关于聊骚](er-liao-tian-pian/guan-yu-liao-sao.md)
-* [三、约会篇](san-yue-hui-pian.md)
+* [三、约会篇](san-yue-hui-pian/README.md)
+  * [指导思想](san-yue-hui-pian/san-yue-hui-pian.md)
 * [四、夜店篇](si-ye-dian-pian.md)
