@@ -25,5 +25,6 @@
 * [三、约会篇](san-yue-hui-pian.md)
   * [指导思想](san-yue-hui-pian/san-yue-hui-pian.md)
   * [关于相亲女](san-yue-hui-pian/guan-yu-xiang-qin-nv.md)
+  * [初次约会参考手册](san-yue-hui-pian/chu-ci-yue-hui-can-kao-shou-ce.md)
   * [笔者实战感悟](san-yue-hui-pian/bi-zhe-shi-zhan-gan-wu.md)
 * [四、夜店篇](si-ye-dian-pian.md)
