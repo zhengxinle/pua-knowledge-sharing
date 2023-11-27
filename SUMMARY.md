@@ -31,4 +31,4 @@
   * [女人不靠谱](wu-guan-yu-xiang-qin-nv/nv-ren-bu-kao-pu.md)
   * [综述](wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md)
   * [笔者实战感悟](wu-guan-yu-xiang-qin-nv/bi-zhe-shi-zhan-gan-wu.md)
-  * [心机婊案例](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
+  * [谨防心机婊](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
