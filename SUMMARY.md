@@ -1,6 +1,6 @@
 # Table of contents
 
-* [写在前面](README.md)
+* [前言](README.md)
   * [自述](readme/zi-shu.md)
   * [把妹学习的必要性](xie-zai-qian-mian/ba-mei-xue-xi-de-bi-yao-xing.md)
   * [我对情感导师行业的看法](xie-zai-qian-mian/wo-dui-qing-gan-dao-shi-hang-ye-de-kan-fa.md)
@@ -11,6 +11,7 @@
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
   * [软件收集资源](yi-ge-can-ku-de-shi-shi/ruan-jian-shou-ji-zi-yuan.md)
   * [搭讪有用吗](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
+* [二、关于女人](er-guan-yu-nv-ren.md)
 * [二、聊天篇](er-liao-tian-pian/README.md)
   * [聊天的前提](liao-tian-pian/liao-tian-de-qian-ti.md)
   * [筛选，重中之重](er-liao-tian-pian/shai-xuan-zhong-zhong-zhi-zhong.md)
@@ -31,4 +32,4 @@
   * [女人不靠谱](wu-guan-yu-xiang-qin-nv/nv-ren-bu-kao-pu.md)
   * [综述](wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md)
   * [笔者实战感悟](wu-guan-yu-xiang-qin-nv/bi-zhe-shi-zhan-gan-wu.md)
-  * [心机婊案例](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
+  * [谨防心机婊](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
