@@ -1,4 +1,4 @@
-# 相亲女综述
+# 综述
 
 其实大多数男女，都绕不开相亲软件，尤其是很多软件在弱化『相亲』那么强的目的性，所以玩相亲软件也没什么好妄自菲薄的。
 
@@ -125,7 +125,7 @@
 1. 坏：单纯广撒网的，pass掉。
 2.  蠢：那么她未必坏，可能只是经历少而已，你可以见她。但是要低成本。
 
-    参考[#target1](guan-yu-xiang-qin-nv.md#target1 "mention")
+    参考 [#dui-xiang-qin-nv-de-shai-xuan-si-lu](guan-yu-xiang-qin-nv.md#dui-xiang-qin-nv-de-shai-xuan-si-lu "mention")
 
 ### 针对女人的广撒网心态
 
@@ -183,9 +183,7 @@
 
 如果你实在闲得无聊想见面，那就抱着无所谓的心态，约她逛公园，或者小河边走走。参考<对相亲女的筛选思路>这一节
 
-
-
-## 对相亲女的筛选思路 <a href="#target1" id="target1"></a>
+## 对相亲女的筛选思路 <a href="#dui-xiang-qin-nv-de-shai-xuan-si-lu" id="dui-xiang-qin-nv-de-shai-xuan-si-lu"></a>
 
 ### 理想情况
 
