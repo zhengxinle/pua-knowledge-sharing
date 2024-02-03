@@ -32,5 +32,6 @@
   * [第一节](si-ye-dian-pian/di-yi-jie.md)
 * [六、关于相亲女](wu-guan-yu-xiang-qin-nv/README.md)
   * [相亲女综述and筛选思路](wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md)
-  * [笔者实战感悟](wu-guan-yu-xiang-qin-nv/bi-zhe-shi-zhan-gan-wu.md)
+  * [典型相亲女案例](wu-guan-yu-xiang-qin-nv/dian-xing-xiang-qin-nv-an-li.md)
   * [谨防心机婊](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
+  * [笔者实战感悟](wu-guan-yu-xiang-qin-nv/bi-zhe-shi-zhan-gan-wu.md)
