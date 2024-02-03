@@ -1,8 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-  * [自述](readme/zi-shu.md)
-  * [针对高效率原则的说明](readme/zhen-dui-gao-xiao-shuai-yuan-ze-de-shuo-ming.md)
+  * [自述and本书受众](readme/zi-shu.md)
   * [把妹学习的必要性](xie-zai-qian-mian/ba-mei-xue-xi-de-bi-yao-xing.md)
   * [我对情感教育行业的看法](xie-zai-qian-mian/wo-dui-qing-gan-dao-shi-hang-ye-de-kan-fa.md)
   * [微信群聊的误导性](readme/wei-xin-qun-liao-de-wu-dao-xing.md)
