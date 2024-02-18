@@ -17,8 +17,4 @@
 
 能到达暧昧调情，才有见面的必要。
 
-更细节的筛选思路，移步：
-
-{% content-ref url="../wu-guan-yu-xiang-qin-nv/" %}
-[wu-guan-yu-xiang-qin-nv](../wu-guan-yu-xiang-qin-nv/)
-{% endcontent-ref %}
+更细节的筛选思路，移步：[#dui-xiang-qin-nv-de-shai-xuan-si-lu](../wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md#dui-xiang-qin-nv-de-shai-xuan-si-lu "mention")
