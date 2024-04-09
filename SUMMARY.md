@@ -10,7 +10,7 @@
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
   * [软件收集资源](yi-ge-can-ku-de-shi-shi/ruan-jian-shou-ji-zi-yuan.md)
-  * [搭讪有用吗](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
+  * [搭讪](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
 * [二、关于女人](er-guan-yu-nv-ren/README.md)
   * [女人不靠谱](er-guan-yu-nv-ren/nv-ren-bu-kao-pu.md)
   * [女人案例汇总](er-guan-yu-nv-ren/nv-ren-de-shuang-biao.md)
