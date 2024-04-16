@@ -178,3 +178,20 @@
 
 必须承认，面对那么大基数的饥渴丑男，女人的这种策略是有效果的，这个35岁大龄女，敢这么跟我玩，肯定是因为她之前有成功经历，通过吊着所谓的高价值成功人士们，筛选出舔狗。
 
+***
+
+过了4个月吧，我复盘约过的妹子，想起这女的了，所以逗逗她。
+
+下面有3张聊天截图，再一次证明了，跟女人讲道理是没意义的，而且女人口是心非，她只会站在她的利益角度说话，她不会告诉你她的内心想什么。
+
+**比如她说觉得见面更高效，**但实际呢？见了面跟个死鱼一样不跟我培养好感，这叫你妈的高效？
+
+所以她说的高效，指的是对她筛选供养者比较高效。
+
+她说的话会骗人，她的行为不会骗人。
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
