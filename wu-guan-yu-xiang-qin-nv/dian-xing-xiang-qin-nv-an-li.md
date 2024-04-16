@@ -22,7 +22,7 @@
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
@@ -64,7 +64,38 @@
 
 总结：此女经验少，如果我能顺应她的傻逼，走心然后再进挪，其实大概率是可以搞定的。
 
-## 案例二：
+## 案例二：随意邀约我的35岁大龄女
+
+来自牵手app。
+
+匹配完，妹子开始跟我表达好感，加了微信，聊了10句就开始邀约我周末见面。
+
+我想起了以前见过的广撒网相亲女，心理不适，于是开始微信聊天筛选她。
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>图1</p></figcaption></figure>
+
+发形象视频，发原图照片，我就是为了表明一个态度：
+
+> 我是为了防止你对颜值有执念，所以披露足够信息 也是为了不浪费彼此时间 (其实我是怕你傻逼，浪费我时间 )
+
+女的表示认可我的颜值，又聊了几句，继续要邀约我。
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>图2</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>图3</p></figcaption></figure>
+
+我心想颜值过关了，可以见见的吧？约会地点是路边摊（就是那种推个小三轮摆摊的），她请我吃烧烤，看得出来，这女的可能是这么约男的，广撒网习惯了。
+
+丑男那么多，比如她中午吃兰州拉面的时候，她就可能约男的见面，然后真的会有男的赴约。
+
+毕竟，35岁的女的，活的是很明白的
+
+见面后，不出意外的话只是唠家常，没办法的事，女的唠家常，我也不好往暧昧引导。
+
+分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
 
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图五</p></figcaption></figure>
