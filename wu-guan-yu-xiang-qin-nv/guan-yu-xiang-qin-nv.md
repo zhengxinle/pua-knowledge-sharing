@@ -124,14 +124,24 @@ _**极端差的情况：**_
 
 我只以我自己的长相为参考基线来讨论
 
-*   类别1：跟我分数一样的。
+*   类别1：小于等于我的分数的。
 
     这种又分两类，眼光高的和眼光低的，眼光高的需要你价值硬或者肯花钱的，不建议接触。
 
-    眼光低的是我的目标，这种妹子需要走心，而且花的钱也不用很多
+    眼光低的是我的目标，这种妹子需要走心，而且花的钱也不用很多，你多跟她拉扯几次。
 *   类别2：比我分数高的。
 
-    这种其实没有一个是容易搞的，参考一下 [#nv-ren-dui-gong-yang-zhe-de-san-zhong-tai-du](../yi-ge-can-ku-de-shi-shi/sub1.md#nv-ren-dui-gong-yang-zhe-de-san-zhong-tai-du "mention") 里面的内容，
+    这种妹子其实没有一个是容易搞的，参考一下 [#nv-ren-dui-gong-yang-zhe-de-san-zhong-tai-du](../yi-ge-can-ku-de-shi-shi/sub1.md#nv-ren-dui-gong-yang-zhe-de-san-zhong-tai-du "mention") 里面的内容，
+
+    *   第一种态度：给你一个追我的机会**。**
+
+        这种pass掉，聊天大概率就跟死鱼一样，会回复你，但是姿态比较高
+    *   第二种态度，会有一定程度的主动
+
+        典型案例在  [#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv "mention")
+    * 第三种态度， 假装把你当情人
+
+    &#x20;     这种小概率会遇到， [#an-li-1-mou-yu-ga-jiao-lian](xin-ji-biao-an-li.md#an-li-1-mou-yu-ga-jiao-lian "mention")
 
 
 
