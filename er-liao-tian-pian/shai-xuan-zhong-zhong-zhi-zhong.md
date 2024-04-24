@@ -15,6 +15,6 @@
 
 前几句能跟你来回的，再继续聊，否则换人。
 
-能到达暧昧调情，才有见面的必要。
+能到达暧昧调情or大方表达好感，才有见面的必要。
 
 更细节的筛选思路，移步：[#dui-xiang-qin-nv-de-shai-xuan-si-lu](../wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md#dui-xiang-qin-nv-de-shai-xuan-si-lu "mention")
