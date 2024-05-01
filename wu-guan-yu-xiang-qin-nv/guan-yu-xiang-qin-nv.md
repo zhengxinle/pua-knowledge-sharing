@@ -235,6 +235,14 @@ _**大龄女：**_
 
 一条引申出的结论是：**如果微信聊天中女人表露那么一丁点广撒网的意思，那你跟她初次见面就别指望什么情话、拥抱、接吻了。**对待这种女人需要参考 [#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa](guan-yu-xiang-qin-nv.md#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa "mention")
 
+> 『喜欢倒还不至于，最多就是有继续接触的意愿』
+>
+> 『哈哈我们见面就是交个朋友，你别多想』
+
+
+
+
+
 ***
 
 **原因一：女人广撒网是因为**<mark style="color:red;">**觉得很多男的配不上她**</mark>
