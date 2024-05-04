@@ -3,9 +3,7 @@
 笔者从2021.07接触把妹，参加过pua课程，私下也实战很多，在这里记录自己的心得。\
 书名暂定为『高效率把妹--来自一个程序员的把妹心得』
 
-github链接：\
-
-[跳转]: https://github.com/zhengxinle/pua-knowledge-sharing
+github链接：[链接](https://github.com/zhengxinle/pua-knowledge-sharing.github.io)
 
 这个git仓库作为文档存储地，所有文档作为一本书籍，同步到gitbook：
 

@@ -22,7 +22,7 @@
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
@@ -98,7 +98,7 @@
 
 分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图五</p></figcaption></figure>
 
@@ -118,7 +118,7 @@
 >
 > 我配得上你，你的养育价值达标了，你为什么不抓住机会追一下我？
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>图六</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>图七</p></figcaption></figure>
 

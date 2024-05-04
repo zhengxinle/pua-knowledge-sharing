@@ -38,11 +38,15 @@
 
 ### 案例1
 
-<figure><img src="../.gitbook/assets/微信图片_20240103122125.png" alt=""><figcaption></figcaption></figure>
+<details>
 
-##
+<summary>聊天截图（展开页面来查看）</summary>
 
-<figure><img src="../.gitbook/assets/微信图片_20240103122144.png" alt=""><figcaption></figcaption></figure>
+![](../.gitbook/assets/image.png)
+
+<img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
+
+</details>
 
 此女来自牵手app，年龄31岁，职业是大学老师。
 
@@ -68,9 +72,7 @@
 
 ## 我在软件上的匹配情况
 
-我吹自己北京成都有房，清华硕士，年薪50W。
-
-外在方面，我173身高，不胖不瘦，路人颜值（脸型、鼻子都不好看）.
+我吹自己北京成都有房，清华硕士，年薪50W。我的颜值前文已表述。
 
 展示面，我拍的一些高档酒店、环境好的餐厅，尽量让外人看起来生活精致、家境好。
 
@@ -242,7 +244,7 @@ _**大龄女：**_
 
 比如你长相5分，我希望你约会过几个3分丑女，然后又被丑女贬低外在，被丑女挑小毛病，然后被丑女拒绝，再回来看这些文字。
 
-一条引申出的结论是：**如果微信聊天中女人表露那么一丁点广撒网的意思，那你跟她初次见面就别指望什么情话、拥抱、接吻了。**对待这种女人需要参考 [#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa](guan-yu-xiang-qin-nv.md#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa "mention")
+一条引申出的结论是：\*\*如果微信聊天中女人表露那么一丁点广撒网的意思，那你跟她初次见面就别指望什么情话、拥抱、接吻了。\*\*对待这种女人需要参考 [#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa](guan-yu-xiang-qin-nv.md#yong-yuan-bu-hui-chu-cuo-de-shai-xuan-ban-fa "mention")
 
 > 『喜欢倒还不至于，最多就是有继续接触的意愿』
 >

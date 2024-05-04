@@ -28,7 +28,7 @@
   * [指导思想](san-yue-hui-pian/san-yue-hui-pian.md)
   * [初次约会参考手册](san-yue-hui-pian/chu-ci-yue-hui-can-kao-shou-ce.md)
 * [五、夜店篇](si-ye-dian-pian/README.md)
-  * [第一节](si-ye-dian-pian/di-yi-jie.md)
+  * [综述](si-ye-dian-pian/di-yi-jie.md)
 * [六、关于相亲女](wu-guan-yu-xiang-qin-nv/README.md)
   * [相亲女综述and筛选思路](wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md)
   * [女人不肯付出？](wu-guan-yu-xiang-qin-nv/nv-ren-bu-ken-fu-chu.md)
