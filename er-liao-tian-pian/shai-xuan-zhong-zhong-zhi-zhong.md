@@ -17,4 +17,4 @@
 
 能到达暧昧调情or大方表达好感，才有见面的必要。
 
-更细节的筛选思路，移步：[#dui-xiang-qin-nv-de-shai-xuan-si-lu](../wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md#dui-xiang-qin-nv-de-shai-xuan-si-lu "mention")
+强烈建议先阅读 [guan-yu-xiang-qin-nv.md](../wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md "mention")，里面有很多针对软件上女人的心理活动的分析，看了之后，提高你聊天的效率，准确筛选掉不靠谱的女的。
