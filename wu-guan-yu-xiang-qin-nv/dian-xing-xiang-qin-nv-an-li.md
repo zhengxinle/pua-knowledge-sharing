@@ -231,7 +231,12 @@ xxx
 
 这里分享一个典型案例。
 
-如下2张图，加了好友先铺垫好感。
+如下折叠内容的若干张图，加了好友先铺垫好感。
+
+看得出来，女的很用心打字交流，但是我的暧昧试探，她不接茬，她的理由是还不熟，慢热，需要进一步了解，这个时候你说我要不要信她？
+
+> 信她吧？她又不是处女，凭什么让我信，而且女人普遍口是心非、双标、自己骗自己。\
+> 不信吧，人家打字那么多，也算真诚了
 
 <details>
 
@@ -239,10 +244,22 @@ xxx
 
 <img src="../.gitbook/assets/image.png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">![](<../.gitbook/assets/image (15).png>)
+
+![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (17).png>)
+
+![](<../.gitbook/assets/image (18).png>)
 
 </details>
 
-后来几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
+后来我也不太想屌她了，
+
+几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+你们看一下，到这里，逻辑闭环了。
+
+为什么之前的暧昧她不接茬？ 因为她活得很明白，相亲就是相亲，就是慢热矜持多接触。
+
+她觉得暧昧是不道德的，这就仁者见仁智者见智了，我又没在她身上装监视器，她跟什么男的打过炮我知道吗？
