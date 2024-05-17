@@ -4,6 +4,10 @@
 
 每一个案例我会给出总结教训。
 
+还是那句话，听别人讲道理一大堆，不如看点真实案例，更能起到加深印象、知道行为的效果。
+
+ps: 右侧导航栏，点击跳转
+
 ## 案例一：经验少的相亲女
 
 女25岁。自称恋爱经历两次，异地什么的，感觉也没好好恋爱过的那种妹子。
@@ -22,13 +26,13 @@
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
 这第二次约会，就是她安排的，吃饭没意义，电影院不接吻，说明这妹子想细水长流，她可能觉得第一次跟我接吻是意外，需要我给她安全感。
 
-又可能，对于两性关系，她在观念上有一些自己的狭隘之处。比如她说『我不用心穿搭，就不是你的小宝贝了』，这不纯纯傻逼么，我跟你非亲非故，你随便穿还想让我喜欢你？
+又可能，对于两性关系，她在观念上有一些自己的狭隘之处。比如她跟我说过『我不用心穿搭，就不是你的小宝贝了』，这不纯纯傻逼么，我跟你非亲非故，你随便穿还想让我喜欢你？
 
 当时我觉得这妹子不靠谱，浪费我时间。
 
@@ -58,9 +62,10 @@
 
 女人吧，不理性，说到底还是看感觉，看心情。
 
-第四次见面，\*\*我约的她，\*\*此女跟我吃饭时，已经开始跟我讲爱情观了，各种奇葩观点，我突然觉得很无聊。
+第四次见面，**我约的她**，此女跟我吃饭时，已经开始跟我讲爱情观了，各种奇葩观点，我突然觉得很无聊。
 
-此女说男的牵手之前要征求女人同意，男女得慢慢接触很久才能亲密接触。然后指责我第一次见面做得不对，不 该带她来我家里，不该亲她。说我那种行为，她可以告我的。
+此女说男的牵手之前要征求女人同意，男女得慢慢接触很久才能亲密接触。然后指责我第一次见面做得不对，不 该带她来我家里，不该亲她。说我那种行为，她可以告我的。\
+她还说她前一任是确认关系了才牵手和接吻的。
 
 我心想什么奇葩，决定放弃。见面不欢而散。
 
@@ -74,7 +79,7 @@
 
 我想起了以前见过的广撒网相亲女，心理不适，于是开始微信聊天筛选她。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 发形象视频，发原图照片，我就是为了表明一个态度：
 
@@ -82,9 +87,9 @@
 
 女的表示认可我的颜值，又聊了几句，继续要邀约我。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>图3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
 
 我心想颜值过关了，可以见见的吧？
 
@@ -98,7 +103,7 @@
 
 分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图五</p></figcaption></figure>
 
@@ -118,7 +123,7 @@
 >
 > 我配得上你，你的养育价值达标了，你为什么不抓住机会追一下我？
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>图七</p></figcaption></figure>
 
@@ -209,9 +214,35 @@
 
 但是有一种
 
+xxx
+
 回去后，这女的对我冷淡了，我在想，可能性有：
 
 > 1. 那晚见我是因为无聊，刚好想见见男的
 > 2. 她可能期待我开什么好车去见她，毕竟我展示面拍的还不错，她有较高预期
 > 3. 她说见了我请我吃饭，但她心里可能想的是我把你骗过来，你一个男的肯定不好意思不请我吃饭吧？但是我真的没请她，她心里不爽，觉得我不像她见过的其他男的一样舔她。
 > 4. 虽然我见面前给她发视频了，她见了真人，再次回想起自己打过炮的那些帅小伙，还是觉得哎呀本仙女不能苟且，反正这男的是我见过的N个男的之一，我再见点别的男的
+
+未完待补充
+
+## 案例四：承认自己广撒网的相亲女
+
+如本章第一节 [guan-yu-xiang-qin-nv.md](guan-yu-xiang-qin-nv.md "mention")所述，相亲女的广撒网是普遍现象，但是大多数女的不会承认，甚至会找理由自我安慰。比如『婚姻不是小事，我得多见几个』。
+
+这里分享一个典型案例。
+
+如下2张图，加了好友先铺垫好感。
+
+<details>
+
+<summary>图片</summary>
+
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+
+<img src="../.gitbook/assets/image (1).png" alt="" data-size="original">
+
+</details>
+
+后来几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
