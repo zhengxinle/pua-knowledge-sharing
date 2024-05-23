@@ -157,13 +157,13 @@ _**类别2：比我分数高的。**_
    * 这种pass掉，聊天大概率就跟死鱼一样，会回复你，但是姿态比较高。又或者，张嘴就是让你请吃饭的。
    * 接触妹子多了你其实本能地会躲开这种妹子，所以排除起来也没什么难度。软件上聊几句就感觉到了，微信都没有必要加。
    * 这种妹子之所以态度这么叼，是因为巨大的的饥渴丑男基数，使得她即使态度叼也能收获不少舔狗。
-2. 第二种态度，会有一定程度的主动.。但是吧细分来说，还分好几种。
+2. 第二种态度，会有一定程度的主动.。但是吧细分来说，还分好几种。这里我列出比较典型的3种。
    1. <mark style="color:red;">**长期聊天唠家常，但是绝不暧昧。**</mark>\
       典型案例在 [#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv "mention") ，这种妹子也不在少数，她认为，『我都跟你唠家常了，打那么多字，我还不够主动么』，\
-      但是你的暧昧试探她不会接茬，她会说矜持慢热。这就比较呵呵了，千万别信。不跟你暧昧是因为觉得你不配。\
+      但是你的暧昧试探她不会接茬，她会说矜持慢热。这就比较呵呵了，千万别信。不跟你暧昧是因为觉得你不配，她本能地抗拒。\
       这种妹子内心是把广撒网当基本操作的，你可以接触，但是要引导她付出。\
       参考阅读  [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
-   2. <mark style="color:red;">**不想跟你聊天，但会直接邀约你。**</mark>\
+   2. <mark style="color:red;">**她说不喜欢聊天，但会直接邀约你。**</mark>\
       参考阅读  [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
    3. <mark style="color:red;">**聊天随口给你希望、表达好感，然后还会邀约你**</mark>\
       典型案例在 [#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv "mention")\
@@ -171,7 +171,7 @@ _**类别2：比我分数高的。**_
       \
       还有一种典型的女的，如果你人设牛逼，或者你真的是社会精英，有的女的会把你当人脉经营，这种就比较搞笑了。\
       站在男人的角度，跟一个只有长相、没脑子的人社交是浪费时间。\
-      站在女人的角度，觉得自己有姿色，然后觉得一般长相男的配不上自己，然后觉得自己得找点成功人士，变现点好处。 典型案例 [#an-li-san-kao-liao-sao-lai-pian-nan-ren-fu-yue](dian-xing-xiang-qin-nv-an-li.md#an-li-san-kao-liao-sao-lai-pian-nan-ren-fu-yue "mention")\
+      站在女人的角度，觉得自己有姿色，然后觉得一般长相男的配不上自己，然后觉得自己要么找帅哥打炮，要么得找点成功人士，变现点好处。 典型案例 ：[#an-li-san-kao-liao-sao-lai-pian-nan-ren-fu-yue](dian-xing-xiang-qin-nv-an-li.md#an-li-san-kao-liao-sao-lai-pian-nan-ren-fu-yue "mention")\
       这种妹子说实话也不建议接触，实在无聊了可以试着接触下，但是一定要控制时间和金钱成本
 3. 第三种态度， 假装把你当情人，但是她心里怎么想的你不知道
    * 这种小概率会遇到，如果你人设包装得很有钱or高知识分子or潜力股，你会发现有些美女跟你走心说对你是真爱啊，如果遇到这种妹子，那么我们就需要打起十二分精神，步步为营；
