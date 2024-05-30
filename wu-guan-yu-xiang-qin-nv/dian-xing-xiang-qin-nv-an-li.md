@@ -26,7 +26,7 @@ ps: 右侧导航栏，点击跳转
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
@@ -79,7 +79,7 @@ ps: 右侧导航栏，点击跳转
 
 我想起了以前见过的广撒网相亲女，心理不适，于是开始微信聊天筛选她。
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 发形象视频，发原图照片，我就是为了表明一个态度：
 
@@ -87,9 +87,9 @@ ps: 右侧导航栏，点击跳转
 
 女的表示认可我的颜值，又聊了几句，继续要邀约我。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
 
 我心想颜值过关了，可以见见的吧？
 
@@ -103,7 +103,7 @@ ps: 右侧导航栏，点击跳转
 
 分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图五</p></figcaption></figure>
 
@@ -123,7 +123,7 @@ ps: 右侧导航栏，点击跳转
 >
 > 我配得上你，你的养育价值达标了，你为什么不抓住机会追一下我？
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>图七</p></figcaption></figure>
 
@@ -242,19 +242,17 @@ xxx
 
 <summary>图片</summary>
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">![](<../.gitbook/assets/image (20).png>)
+<img src="../.gitbook/assets/image (3).png" alt="" data-size="original"><img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (21).png>)![](<../.gitbook/assets/image (22).png>)
+<img src="../.gitbook/assets/image (21).png" alt="" data-size="original"><img src="../.gitbook/assets/image (22).png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (23).png>)![](<../.gitbook/assets/image (24).png>)
+<img src="../.gitbook/assets/image (23).png" alt="" data-size="original"><img src="../.gitbook/assets/image (24).png" alt="" data-size="original">
 
+<img src="../.gitbook/assets/image (15).png" alt="" data-size="original">
 
+<img src="../.gitbook/assets/image (16).png" alt="" data-size="original"><img src="../.gitbook/assets/image (17).png" alt="" data-size="original">
 
-![](<../.gitbook/assets/image (15).png>)
-
-![](<../.gitbook/assets/image (16).png>)![](<../.gitbook/assets/image (17).png>)
-
-![](<../.gitbook/assets/image (18).png>)
+<img src="../.gitbook/assets/image (18).png" alt="" data-size="original">
 
 </details>
 
@@ -262,12 +260,12 @@ xxx
 
 几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 你们看一下，到这里，逻辑闭环了。
 
 为什么之前的暧昧她不接茬？\
-&#x20;因为她活得很明白，相亲就是相亲，就是慢热矜持多接触，所以相亲跟暧昧调情是不相容的。\
+因为她活得很明白，相亲就是相亲，就是慢热矜持多接触，所以相亲跟暧昧调情是不相容的。\
 这也是一部分相亲女的纠结之处，她想找长期的供养，觉得暧昧聊天、表达好感，会显得自己很廉价，对方不珍惜。
 
 她觉得暧昧是不道德的，这就仁者见仁智者见智了，我又没在她身上装监视器，她跟什么男的聊没聊过骚、如何快速打过炮，我知道吗？

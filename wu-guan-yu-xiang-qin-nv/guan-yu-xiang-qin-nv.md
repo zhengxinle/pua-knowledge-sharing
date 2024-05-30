@@ -45,7 +45,7 @@
 
 <summary>聊天截图+分析</summary>
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
 
 此女来自牵手app，年龄31岁，职业是大学老师。
 
@@ -140,7 +140,7 @@ _**类别1：小于等于我的分数的。**_\
 又分两类：
 
 1. 眼光高的\
-   俗称人丑颜控，需要你价值硬或者肯跪舔的，不建议接触。**这种妹子的内心想法和对待我的各种态度，**跟类别2.1、2.2（给你一个追我的机会or会有一定程度的主动.）情况一样。\
+   俗称人丑颜控，需要你价值硬或者肯跪舔的，不建议接触。\*\*这种妹子的内心想法和对待我的各种态度，\*\*跟类别2.1、2.2（给你一个追我的机会or会有一定程度的主动.）情况一样。\
    这种妹子，内心可能笃定了要广撒网。\
    比如跟王子打过炮，认为自己是公主，你所知道的各种剩女的心理，这种妹子都可能有。
 2. 眼光低的\
@@ -162,9 +162,9 @@ _**类别2：比我分数高的。**_
       典型案例在 [#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv "mention") ，这种妹子也不在少数，她认为，『我都跟你唠家常了，打那么多字，我还不够主动么』，\
       但是你的暧昧试探她不会接茬，她会说矜持慢热。这就比较呵呵了，千万别信。不跟你暧昧是因为觉得你不配，她本能地抗拒。\
       这种妹子内心是把广撒网当基本操作的，你可以接触，但是要引导她付出。\
-      参考阅读  [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
+      参考阅读 [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
    2. <mark style="color:red;">**她说不喜欢聊天，但会直接邀约你。**</mark>\
-      参考阅读  [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
+      参考阅读 [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
    3. <mark style="color:red;">**聊天随口给你希望、表达好感，然后还会邀约你**</mark>\
       典型案例在 [#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv "mention")\
       这个案例非常典型，这女的有些迷惑性，女的会口头上给我希望，比如说是我喜欢的类型，但是聊天过程中我能感受到对方的投入度有限。约会时候也能感受到，但是奇葩的是这种女的还会多次约我。\
@@ -265,7 +265,7 @@ _**大龄女：**_
 
 比如你长相5分，我希望你约会过几个3分丑女，然后又被丑女贬低外在，被丑女挑小毛病，然后被丑女拒绝，再回来看这些文字。
 
-一条引申出的结论是：**如果微信聊天中女人表露那么一丁点广撒网的意思，那你跟她初次见面就别指望什么情话、拥抱、接吻了。**比如：
+一条引申出的结论是：\*\*如果微信聊天中女人表露那么一丁点广撒网的意思，那你跟她初次见面就别指望什么情话、拥抱、接吻了。\*\*比如：
 
 > 『喜欢倒还不至于，最多就是有继续接触的意愿』
 >
