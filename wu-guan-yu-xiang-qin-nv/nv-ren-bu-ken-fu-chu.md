@@ -6,12 +6,13 @@
 
 说白了，**很多女的想找个男保姆，并且觉得自己这样的想法是正当的**。
 
-她可能在网上会口嗨，说不差你那一顿饭钱，但实际见男的，一个个抠的要死。
+她可能在网上会口嗨，说不差你那一顿饭钱，但实际见男的，一个个抠的要死。&#x20;
+
 当然了，在已经充分竞争的打炮市场，帅哥是不用花钱都能睡到女的，很多女的甚至得倒贴钱。
 
 > 日本女孩的『三个钱包』：
 >
-> 应该指的是[日本泡沫经济](https://www.zhihu.com/search?q=日本泡沫经济&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A"1857465440"})破灭之前，日本经济蓬勃发展，日本女性地位[空前绝后](https://www.zhihu.com/search?q=空前绝后&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A"1857465440"})的时间段（和现在中国还挺像），女性对三种男性的称呼
+> 应该指的是[日本泡沫经济](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%B3%A1%E6%B2%AB%E7%BB%8F%E6%B5%8E\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=\{%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%221857465440%22})破灭之前，日本经济蓬勃发展，日本女性地位[空前绝后](https://www.zhihu.com/search?q=%E7%A9%BA%E5%89%8D%E7%BB%9D%E5%90%8E\&search\_source=Entity\&hybrid\_search\_source=Entity\&hybrid\_search\_extra=\{%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A%221857465440%22})的时间段（和现在中国还挺像），女性对三种男性的称呼
 >
 > 分别是，车夫，粮票，ATM
 >
@@ -33,9 +34,7 @@
 
 她只是觉得**理所当然**的，我遇到过女的说过这种话：既然谈恋爱男的不能让我开心，那我单着也挺好。说白了，这是女的为自己在异性交往上的任性找理由开脱，潜台词是人家想当小仙女，你当个男保姆就行。（小仙女永远占领理论高地）
 
-我还遇到过，即使是丑女，我跟她约会一直是我花钱，她后来却跟我说，不想被白嫖、男生要付出，那意思是我白嫖她了。
-我说我没付出？她说『我已经回报你了啊』，我说啥回报？她说『身体』，意思是打个炮是我在占她便宜。
-经历女的多了你就发现，这不在少数。
+我还遇到过，即使是丑女，我跟她约会一直是我花钱，她后来却跟我说，不想被白嫖、男生要付出，那意思是我白嫖她了。 我说我没付出？她说『我已经回报你了啊』，我说啥回报？她说『身体』，意思是打个炮是我在占她便宜。 经历女的多了你就发现，这不在少数。
 
 既然她都不感激我，觉得我花钱花时间是理所当然的，那我为什么要付出？
 
