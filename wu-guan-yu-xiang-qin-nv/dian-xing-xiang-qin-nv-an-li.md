@@ -4,7 +4,7 @@
 
 每一个案例我会给出总结教训。
 
-还是那句话，听别人讲道理一大堆，不如看点真实案例，更能起到加深印象、知道行为的效果。
+还是那句话，听别人讲道理一大堆，不如看点真实案例，更能起到加深印象、指导行为的效果。
 
 ps: 右侧导航栏，点击跳转
 
@@ -287,3 +287,7 @@ xxx
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/f352600d59aa31ec61e62811cd69791 (1).png" alt=""><figcaption></figcaption></figure>
+
+## 案例六：她很骚，可是她很抠门
+
+todo
