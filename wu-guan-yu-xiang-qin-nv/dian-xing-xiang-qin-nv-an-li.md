@@ -282,6 +282,8 @@ xxx
 
 『我懒得跟你聊，你通勤过来找我，然后请我消费』
 
+『我不会付出通勤的辛苦，以及喝咖啡和吃饭的金钱，我现在给你一个追我的机会，你怎么不好好把握？』
+
 
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
