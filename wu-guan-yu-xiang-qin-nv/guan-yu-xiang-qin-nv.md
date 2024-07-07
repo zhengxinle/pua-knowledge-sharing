@@ -478,7 +478,8 @@ _**极端差的情况：**_
 >    3. 简单见个面 看完真人就各回各家
 >    4. 你要是真想跟我聊天就回家后，跟我打语音吧，哈哈
 >    5. 因为我遇到过啊 消费别人的时间 还蹭饭的
->    6. 哈哈，不用正式见面，我家在xxx，你哪天顺路路过我家，提前说，我下楼见你，哈哈
+>    6. 哈哈，不用正式见面，我家在xxx，你哪天顺路路过我家，提前说，我下楼见你，哈哈\
+>
 > 2. 我反感广撒网的女的，真的一点都不想有交集 因为浪费我时间
 >    1. 我如果接触一个女孩子，就专心只跟她接触
 >    2. 我真的没空跟广撒网的女的周旋，彼此看对眼的，都是聊天积极，并且愿意积极推进关系
@@ -492,6 +493,22 @@ _**极端差的情况：**_
 > 4. 我不特别想见面，我喜欢聊天培养熟悉感再见面呢；但是担心没有铺垫 见面了不好升温
 >    1. 聊天不用心的 见面相处也大概率不会用心呢
 >    2. 哈哈 傻逼女的，聊天我就能判断出来
+
+这里贴一个笔者的典型应用：
+
+<details>
+
+<summary>marryU上的相亲女，她刚加微信，就要约我见面</summary>
+
+<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
+
+<img src="../.gitbook/assets/image (27).png" alt="" data-size="original"><img src="../.gitbook/assets/image (28).png" alt="" data-size="original">
+
+搞笑的是，这女的刚加微信，死乞白赖约我
+
+后来又没信儿了，消失了。
+
+</details>
 
 这个防止广撒网的话术，使用场景不局限于『当女人随意邀约你』，对暧昧过的女的、见过面的都可以用，从她的回答你能捉住一些蛛丝马迹，我们在意的是她内心的真实想法。
 
@@ -546,17 +563,7 @@ _**极端差的情况：**_
 
 如果你实在闲得无聊想见面，那就抱着无所谓的心态，约她逛公园，或者小河边走走。具体的参考后续文章。
 
-这里贴一个笔者的典型实战：
 
-<details>
-
-<summary>她刚加微信，就要约我</summary>
-
-<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
-
-<img src="../.gitbook/assets/image (27).png" alt="" data-size="original"><img src="../.gitbook/assets/image (28).png" alt="" data-size="original">
-
-</details>
 
 ## 对相亲女的筛选思路 <a href="#dui-xiang-qin-nv-de-shai-xuan-si-lu" id="dui-xiang-qin-nv-de-shai-xuan-si-lu"></a>
 
@@ -609,7 +616,7 @@ _**极端差的情况：**_
 >
 > 贴一个案例，比较典型
 >
-> [#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-nv "mention")
+> [#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-n](dian-xing-xiang-qin-nv-an-li.md#an-li-er-sui-yi-yao-yue-wo-de-35-sui-da-ling-n "mention")
 
 **所以我认为，这种女的，对我们来说优先级很低，你实在无聊了，可以低成本见她，要不然，还是优先见列表里愿意暧昧/大方表达好感的妹子。**
 
