@@ -2,9 +2,9 @@
 
 搞之前先纠正观念，首先要破除主流价值观的洗脑。
 
-其实把妹那点东西，简单且low，破除了洗脑，你其实已经强过很多人，在剩下的实践里反思-->强化认知--->洗脑破除得更彻底
+其实把妹那点东西，简单且low，破除了洗脑，你其实已经强过很多人，在剩下的实践里  反思-->强化认知--->洗脑破除得更彻底
 
-建议结合 [er-guan-yu-nv-ren](../er-guan-yu-nv-ren/ "mention")  [wu-guan-yu-xiang-qin-nv](../wu-guan-yu-xiang-qin-nv/ "mention") 一起看
+建议结合 [er-guan-yu-nv-ren](../er-guan-yu-nv-ren/ "mention") [wu-guan-yu-xiang-qin-nv](../wu-guan-yu-xiang-qin-nv/ "mention") 一起看
 
 ## **大多数男人被社会洗脑**
 
