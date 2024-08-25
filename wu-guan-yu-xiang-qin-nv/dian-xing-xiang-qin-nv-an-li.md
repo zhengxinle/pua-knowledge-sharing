@@ -293,3 +293,9 @@ xxx
 ## 案例六：她很骚，可是她很抠门
 
 todo
+
+## 案例七：第一句就邀约我？
+
+<figure><img src="../.gitbook/assets/f7982d7e966a2d420a0ed15dd40ba23.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1e030ae0971a77c2888c4e92768c14e.jpg" alt=""><figcaption></figcaption></figure>
