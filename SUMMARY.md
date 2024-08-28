@@ -10,6 +10,7 @@
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
   * [搭讪](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
+  * [关于展示面](yi-ge-can-ku-de-shi-shi/guan-yu-zhan-shi-mian.md)
 * [二、关于女人](er-guan-yu-nv-ren/README.md)
   * [女人特点及其分类](er-guan-yu-nv-ren/nv-ren-bu-kao-pu.md)
   * [为什么丑女也看不上你？](er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md)
