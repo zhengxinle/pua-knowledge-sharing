@@ -15,6 +15,7 @@
   * [女人特点及其分类](er-guan-yu-nv-ren/nv-ren-bu-kao-pu.md)
   * [为什么丑女也看不上你？](er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md)
   * [女人案例汇总](er-guan-yu-nv-ren/nv-ren-de-shuang-biao.md)
+  * [性欲问题](er-guan-yu-nv-ren/xing-yu-wen-ti.md)
 * [三、聊天篇](er-liao-tian-pian/README.md)
   * [聊天的前提](liao-tian-pian/liao-tian-de-qian-ti.md)
   * [筛选，重中之重](er-liao-tian-pian/shai-xuan-zhong-zhong-zhi-zhong.md)
