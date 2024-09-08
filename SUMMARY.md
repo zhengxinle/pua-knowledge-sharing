@@ -32,7 +32,7 @@
   * [初次约会参考手册](san-yue-hui-pian/chu-ci-yue-hui-can-kao-shou-ce.md)
 * [五、夜店篇](si-ye-dian-pian/README.md)
   * [综述](si-ye-dian-pian/di-yi-jie.md)
-* [六、关于相亲女](wu-guan-yu-xiang-qin-nv/README.md)
+* [六、相亲女and长期关系](wu-guan-yu-xiang-qin-nv/README.md)
   * [相亲女综述and筛选思路](wu-guan-yu-xiang-qin-nv/guan-yu-xiang-qin-nv.md)
   * [见面几次可以打炮？](wu-guan-yu-xiang-qin-nv/jian-mian-ji-ci-ke-yi-da-pao.md)
   * [女人不肯付出？](wu-guan-yu-xiang-qin-nv/nv-ren-bu-ken-fu-chu.md)
