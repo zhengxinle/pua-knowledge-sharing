@@ -1,6 +1,6 @@
 # 典型相亲女案例
 
-本节我记录若干典型案例，相信对你高效率搞定相亲女有帮助。
+聊天截图聊天截图截图本节我记录若干典型案例，相信对你高效率搞定相亲女有帮助。
 
 每一个案例我会给出总结教训。
 
@@ -28,7 +28,7 @@ ps: 右侧导航栏，点击跳转
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
@@ -81,7 +81,7 @@ ps: 右侧导航栏，点击跳转
 
 我想起了以前见过的广撒网相亲女（一般都是第一句就开始邀约我），心理不适，于是开始微信聊天筛选她。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 发形象视频，发原图照片，我就是为了表明一个态度：
 
@@ -89,9 +89,9 @@ ps: 右侧导航栏，点击跳转
 
 女的表示认可我的颜值，又聊了几句，继续要邀约我。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
 
 我心想颜值过关了，可以见见的吧？
 
@@ -105,9 +105,9 @@ ps: 右侧导航栏，点击跳转
 
 分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>图五</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>图五</p></figcaption></figure>
 
 我当时是怀疑她广撒网找供养者的，但是因为当时我约的相亲女少，所以不够肯定。
 
@@ -125,7 +125,7 @@ ps: 右侧导航栏，点击跳转
 >
 > 我配得上你，你的养育价值达标了，你为什么不抓住机会追一下我？
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>图七</p></figcaption></figure>
 
@@ -254,7 +254,7 @@ xxxxxxxxxxxxx  todo
 
 <summary>图片</summary>
 
-<img src="../.gitbook/assets/image (3).png" alt="" data-size="original"><img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/image (21).png" alt="" data-size="original"><img src="../.gitbook/assets/image (22).png" alt="" data-size="original">
 
@@ -272,7 +272,7 @@ xxxxxxxxxxxxx  todo
 
 几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 你们看一下，到这里，逻辑闭环了。
 
@@ -312,4 +312,92 @@ todo
 
 <figure><img src="../.gitbook/assets/1e030ae0971a77c2888c4e92768c14e.jpg" alt=""><figcaption></figcaption></figure>
 
-## 案例八：她说想认真和我恋爱，可是她很抠
+## 案例八：她跟我走心，可是她很抠
+
+相识时间：2024年8月。
+
+这女的给了我深刻的印象，也警醒了我：**在第一次约会，甚至刚开始的聊天阶段，就要直白试探女人是不是铁公鸡。**
+
+此女98年，穿搭尚可，分数一般，身高158,成都中医药大学。
+
+聊天阶段轻度暧昧。
+
+第一次见面，餐酒吧我请她喝咖啡，她自己看着菜单又点了个小菜。（真没眼力见儿），花费110。
+
+第二次见面，请她喝奶茶+吃饭，花费280。
+
+第三次见面， KTV包间舌吻，花费160.
+
+第四次见面，家里接吻，她说大姨妈来了，不让我继续，我说给我口一下，她说她从没给男的口过。下午出门陪她去金店（她给她妈妈挑生日礼物），然后去她家，也没干啥，结束。\
+吃午饭花费大概100.
+
+前四次见面，笔者已经感觉到，这女的有抠门的倾向，但是**还不太确定**。为啥？\
+比如第一次见面，她主动点了一个菜，没觉得不好意思。\
+第二次见面，吃完饭没有拥抱亲亲，我到家后，微信上表示对此次约会不满意：『今天没有黏着抱抱』 、『没有说情话』、『就是饭搭子啊』\
+她回答：
+
+![](../.gitbook/assets/image.png)
+
+**她说不差这一顿饭**。这又让我觉得，这女的也许不抠门，我对她抱有幻想。
+
+而且这女的，也在跟我走心，说想好好恋爱，我就想，先处着吧，找机会让她请我吃顿饭。
+
+毕竟，前四次见面，我花了600多了。
+
+第五次见面，相约在成都东郊记忆，一起逛街，言语调情，到饭点了，我说你要请哥哥吃好吃的嘛，她回答得模棱两可，大意是『走，我带你去吃』，我以为她真的答应了。
+
+到了一家川菜馆，点了几个菜，吃的时候：\
+她跟我说她有次过生日，6个男的，就她一个女的；\
+又跟我说，她也不喜欢捞女；\
+又表达了要跟我好好处的意思；\
+又说，今晚去她家，她给我做饭吃。\
+&#x20;我心里那个高兴啊，心想遇到了一个靠谱妹子，毕竟铁公鸡女的很让人下头。
+
+可是到了要走的时候，她说要去厕所，我看了下微信小程序，还没结账，我心想也许等下她就结账了，等她出卫生间，我们一起走出饭店。
+
+一起又在外面溜达了大概，我主动问她，刚才吃饭你付钱了吗？她说不是你付的么？
+
+我说不是你请我吗？
+
+她说：是啊，我请你，你付钱。
+
+我心想你怎么跟我在这耍嘴皮子，就开始磨着说，你请我一次嘛，也不贵，你也付出一次，blabla，令我意外的是，她竟然死活不答应，还**跟我哭穷，又说那次请我喝奶茶，给我带了几个猕猴桃，都算付出。**
+
+我说那次吃烤鱼都花了200多呢，我没有说几次一共花了600多，怕招致她的反感。\
+她说，要么这次我请你，然后以往的饭都AA，要么还是这次你请我。
+
+她说这话，其实有点甩态度的意思了，她的潜台词是『**我喜欢你才让你请我吃饭，你要么就别BB，要么就真的跟我AA，不过AA了就别怪老娘说拜拜**』
+
+我说别提AA呀，AA就不体面了，等等之类。
+
+她依然拒绝，我无言，就跟她一起安静的返回饭店，我准备结账，她却抢先付了钱。出了门，无言，过了会，她打的车到了。
+
+我想着再争取一下？，我就说『我主要怕你情绪化放狠话，不珍惜跟我的关系，所以想让你付出』，她依然不认同，我也不想惯着，毕竟以前遇到过抠门女。
+
+她打车走了。
+
+回家后过了几天，我又试试骚扰她，她的回复，包括我的回复，如下图。
+
+<details>
+
+<summary></summary>
+
+![](<../.gitbook/assets/image (2).png>)
+
+![](<../.gitbook/assets/image (3).png>)
+
+![](<../.gitbook/assets/image (4).png>)
+
+![](<../.gitbook/assets/image (5).png>)
+
+</details>
+
+这些图请看一下，这个女的跟 谨防心机婊-> [#an-li-1-mou-yu-jia-jiao-lian](xin-ji-biao-an-li.md#an-li-1-mou-yu-jia-jiao-lian "mention") ，类似，不过那个瑜伽教练，段位比较高，走心+装淑女+实际抠门，这女的给我提供了一定的情绪价值，但是蛛丝马迹又透露出她有点浪。
+
+这几个聊天截图，总结下来就是：
+
+* 她为自己的抠门找逻辑自洽的理由，她在打感情牌，嘴上跟我说感情，可是却对我很抠门。
+* **她把我当供养者，所以她很抠门啊**
+
+她要是很骚，给我口一下，后者打个炮，我还愿意花钱，可是她没有啊。
+

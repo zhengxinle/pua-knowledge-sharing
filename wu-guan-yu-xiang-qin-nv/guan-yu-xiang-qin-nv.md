@@ -57,7 +57,7 @@
 
 <summary>聊天截图+分析</summary>
 
-<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
 
 此女来自牵手app，年龄31岁，职业是大学老师。
 
@@ -539,9 +539,9 @@ _**极端差的情况：**_
 
 <summary>案例2：她说时间宝贵</summary>
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ![](../.gitbook/assets/2521b1a583ee87c509bb972071560f6.jpg)
 
