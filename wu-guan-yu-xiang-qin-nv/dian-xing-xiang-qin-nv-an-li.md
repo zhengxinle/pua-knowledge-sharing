@@ -28,7 +28,7 @@ ps: 右侧导航栏，点击跳转
 
 到家后，我其实不太高兴了，心想你穿这么随便，好意思见我吗，而且看电影时候也没接吻，我觉得这次约会是比较失败的，没有达到升温的效果。回去后微 信不怎么搭理她。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **有些妹子对约会、升温是漫无目的的，这意味着，需要我们来掌握约会的主动权。**
 
@@ -81,7 +81,7 @@ ps: 右侧导航栏，点击跳转
 
 我想起了以前见过的广撒网相亲女（一般都是第一句就开始邀约我），心理不适，于是开始微信聊天筛选她。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 发形象视频，发原图照片，我就是为了表明一个态度：
 
@@ -89,9 +89,9 @@ ps: 右侧导航栏，点击跳转
 
 女的表示认可我的颜值，又聊了几句，继续要邀约我。
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图2</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>图3</p></figcaption></figure>
 
 我心想颜值过关了，可以见见的吧？
 
@@ -105,7 +105,7 @@ ps: 右侧导航栏，点击跳转
 
 分别后，微信上我开始试探。你们看下图，这是回家后，妹子依然跟我说要多见面培养感情。
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图4</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>图五</p></figcaption></figure>
 
@@ -125,7 +125,7 @@ ps: 右侧导航栏，点击跳转
 >
 > 我配得上你，你的养育价值达标了，你为什么不抓住机会追一下我？
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>图六</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>图七</p></figcaption></figure>
 
@@ -198,7 +198,7 @@ ps: 右侧导航栏，点击跳转
 
 下面有3张聊天截图，再一次证明了，跟女人讲道理是没意义的，而且女人口是心非，她只会站在她的利益角度说话，她不会告诉你她的内心想什么。
 
-比如**她说觉得见面更高效，**但实际呢？见了面跟个死鱼一样不跟我培养好感，这叫你妈的高效？
+比如**她说觉得见面更高效，**&#x4F46;实际呢？见了面跟个死鱼一样不跟我培养好感，这叫你妈的高效？
 
 所以她说的高效，指的是对她筛选供养者比较高效。
 
@@ -254,7 +254,7 @@ xxxxxxxxxxxxx  todo
 
 <summary>图片</summary>
 
-<img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/image (20).png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/image (21).png" alt="" data-size="original"><img src="../.gitbook/assets/image (22).png" alt="" data-size="original">
 
@@ -272,7 +272,7 @@ xxxxxxxxxxxxx  todo
 
 几个月没聊天，我想起她了，掰扯了几句，这女的不小心说出了她的内心想法：
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 你们看一下，到这里，逻辑闭环了。
 
@@ -336,7 +336,7 @@ todo
 第二次见面，吃完饭没有拥抱亲亲，我到家后，微信上表示对此次约会不满意：『今天没有黏着抱抱』 、『没有说情话』、『就是饭搭子啊』\
 她回答：
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 **她说不差这一顿饭**。这又让我觉得，这女的也许不抠门，我对她抱有幻想。
 
@@ -383,9 +383,9 @@ todo
 
 <summary> 微信截图</summary>
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 ![](<../.gitbook/assets/image (4).png>)
 
@@ -402,3 +402,14 @@ todo
 
 她要是很骚，给我口一下，后者打个炮，我还愿意花钱，可是她没有啊。
 
+## 案例十：她说我让我去找她
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+到这里，女的不回复了。
+
+又过了大概20天。
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

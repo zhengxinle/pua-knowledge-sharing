@@ -57,7 +57,7 @@
 
 <summary>聊天截图+分析</summary>
 
-<img src="../.gitbook/assets/image (3) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" data-size="original"><img src="../.gitbook/assets/微信图片_20240103122144.png" alt="" data-size="original">
 
 此女来自牵手app，年龄31岁，职业是大学老师。
 
@@ -541,7 +541,7 @@ _**极端差的情况：**_
 
 ![](<../.gitbook/assets/image (6).png>)
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 ![](../.gitbook/assets/2521b1a583ee87c509bb972071560f6.jpg)
 
@@ -698,8 +698,6 @@ _**极端差的情况：**_
 所以才说泡妞是个low活，我们能做的就是尽量做好前期筛选工作。
 
 ### 永远不会出错的筛选办法
-
-笔者在约见过大概<mark style="color:red;">**50**</mark>个相亲软件上的妹子以后，得出结论：
 
 _<mark style="color:red;">**如果你想避免被广撒网、被丑女挑三拣四拒绝、跟愚蠢小仙女无效社交、被陌生人消费时间，百分百稳妥的方法是：**</mark>_
 
