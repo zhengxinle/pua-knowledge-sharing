@@ -685,13 +685,15 @@ _**极端差的情况：**_
 > * 女性思维下，女的觉得睡到了帅哥，就是配的上，不管玩玩还是认真的
 > * 所以她看不上你，跟她丑不丑没关系
 
+相关阅读：\[12]\([https://app.gitbook.com/o/4kgeRNRMzguHf2wzndLX/s/5l4h4KmBMqK3Vu9dWmjU/\~/changes/276/er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni](../er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md)[wei-shen-me-chounye-kan-bu-shang-ni.md](../er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md "mention"))
+
 所以才说泡妞是个low活，我们能做的就是尽量做好前期筛选工作。
 
 ### 永远不会出错的筛选办法
 
 更新于2025-01-08
 
-笔者本来是坚持『聊得暧昧了就可以请她喝咖啡』的原则，毕竟笔者是个体面人，但是实战了一段时间我发现，在微信暧昧后，如果见面还是遇到装矜持的相亲女，被白白蹭了一顿咖啡/饭，然后被养鱼，那心情真跟吃了屎一样。
+笔者本来是坚持 『聊得暧昧了就可以请她喝咖啡』 的原则，毕竟笔者是个体面人，但是实战了一段时间我发现，在微信暧昧后，如果见面还是遇到装矜持的相亲女，被白白蹭了一顿咖啡/饭，然后被养鱼，那心情真跟吃了屎一样。
 
 天呐！ 我为什么要当一个体面人啊，她们都这么傻逼，我为什么要尊重她们啊
 
