@@ -683,7 +683,7 @@ _**极端差的情况：**_
 > 核心原因是：
 >
 > * 女性思维下，女的觉得睡到了帅哥，就是配的上，不管玩玩还是认真的
-> * 所以她看不上你，跟她丑不丑没关系
+> * 所以她看不上你，跟她丑不丑没关系，因为人家真的睡到过帅哥
 
 相关阅读：\[12]\([https://app.gitbook.com/o/4kgeRNRMzguHf2wzndLX/s/5l4h4KmBMqK3Vu9dWmjU/\~/changes/276/er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni](../er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md)[wei-shen-me-chounye-kan-bu-shang-ni.md](../er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md "mention"))
 
