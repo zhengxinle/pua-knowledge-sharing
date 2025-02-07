@@ -332,6 +332,10 @@ _**极端差的情况：**_
 >
 > 又或者，你们有了一些暧昧铺垫，但是到商量见面的时候，她却说『哈哈，哪天我顺路了见见吧』，然后她就可能挑一个周末，她估计见过一男的了，顺路再见你。
 
+这里再贴一个案例：
+
+[#an-li-shi-er-ta-shuo-jue-ding-lian-ai-zhi-qian-ke-yi-guang-sa-wang](dian-xing-xiang-qin-nv-an-li.md#an-li-shi-er-ta-shuo-jue-ding-lian-ai-zhi-qian-ke-yi-guang-sa-wang "mention")
+
 ***
 
 ***
