@@ -87,7 +87,7 @@
 
 <summary> 她说感觉不ok就不继续了</summary>
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 </details>
 

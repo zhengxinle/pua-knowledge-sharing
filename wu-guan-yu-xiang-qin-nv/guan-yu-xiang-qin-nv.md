@@ -528,7 +528,7 @@ _**极端差的情况：**_
 
 <img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
 
-<img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="original">
 
 <img src="../.gitbook/assets/2521b1a583ee87c509bb972071560f6.jpg" alt="" data-size="original">
 
