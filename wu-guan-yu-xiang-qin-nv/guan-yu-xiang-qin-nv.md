@@ -155,6 +155,10 @@
 
 一想到要不停跟奇葩过招，随时面对时间精力的白白损耗，就比较焦虑
 
+## 颜值是最重要的
+
+todo
+
 ## 相亲女的分类
 
 更新于2024-04-17
@@ -221,7 +225,7 @@ _**类别2：比我分数高的。**_
    * 跪舔也许能打动她，但是对我们pua玩家来说，机会成本太高了，我们不能把生杀予夺的主动权交到别人手里，因为她对你容忍度很低（**不要挑战人性**）。
 2. 第二种态度，会有一定程度的主动.。但是吧细分来说，还分好几种。这里我列出比较典型的3种。
    1. <mark style="color:red;">**长期聊天唠家常，但是绝不暧昧。**</mark>\
-      典型案例在 [#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv](dian-xing-xiang-qin-nv-an-li.md#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-nv "mention") ，这种妹子也不在少数，她认为，『我都跟你唠家常了，打那么多字，我还不够主动么』，\
+      典型案例在 [#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-n](dian-xing-xiang-qin-nv-an-li.md#an-li-si-cheng-ren-zi-ji-guang-sa-wang-de-xiang-qin-n "mention")，这种妹子也不在少数，她认为，『我都跟你唠家常了，打那么多字，我还不够主动么』，\
       但是你的暧昧试探她不会接茬，她会说矜持慢热。这就比较呵呵了，千万别信。不跟你暧昧是因为觉得你不配，她本能地抗拒。\
       这种妹子内心『大概率』是把广撒网当基本操作的，你可以接触，但是要引导她付出。\
       参考阅读 [#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni](guan-yu-xiang-qin-nv.md#xiang-qin-nv-mei-zen-me-liao-jiu-zhu-dong-yao-yue-ni "mention")
