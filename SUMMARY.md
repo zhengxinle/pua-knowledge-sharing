@@ -9,6 +9,7 @@
   * [一个残酷的事实](yi-ge-can-ku-de-shi-shi/yi-ge-can-ku-de-shi-shi.md)
   * [提高外在](yi-ge-can-ku-de-shi-shi/sub0.md)
   * [包装人设](yi-ge-can-ku-de-shi-shi/sub1.md)
+  * [供养者](yi-ge-can-ku-de-shi-shi/gong-yang-zhe.md)
   * [搭讪](yi-ge-can-ku-de-shi-shi/da-shan-you-yong-ma.md)
   * [关于展示面](yi-ge-can-ku-de-shi-shi/guan-yu-zhan-shi-mian.md)
 * [二、关于女人](er-guan-yu-nv-ren/README.md)
