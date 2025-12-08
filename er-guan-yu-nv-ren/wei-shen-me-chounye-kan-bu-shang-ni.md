@@ -9,7 +9,7 @@
 
 搞清楚这个现象非常重要，因为搞清楚了，我们更容易判断妹子是不是**人丑颜控要求高**，从而筛选掉傻逼。
 
-这一节，笔者推荐结合 [gong-yang-zhe-li-lun.md](../yi-ge-can-ku-de-shi-shi/gong-yang-zhe-li-lun.md "mention")来看。
+这一节，笔者推荐结合 [gong-yang-zhe-li-lun.md](../yi-ge-can-ku-de-shi-shi/gong-yang-zhe-li-lun.md "mention")、来看。
 
 ## 因为丑女也能睡到帅哥/有钱人
 
