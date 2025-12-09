@@ -433,3 +433,16 @@ todo
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/1738924621135.png" alt=""><figcaption></figcaption></figure>
+
+## 案例十三：你见我吗
+
+<figure><img src="../.gitbook/assets/2930a35c8bdbca30186610a44ac1d04c.jpg" alt=""><figcaption></figcaption></figure>
+
+这个案例挺典型的，第一句：你见我吗？，她想发的其实是：“你想见我吗”，但是她知道发出来肯定会显得装逼姿态高，所以发了这么一句，你见我吗
+
+第二句：你不见面啊。 潜台词是，我给你一个追求我的机会，你确定要放弃吗？我这么高贵的小仙女，你不好好把握下？
+
+笔者回复： 哈哈，你要请我吃饭？
+
+小仙女感受到自己的想法被看穿，自尊心收到了伤害：他敢？ 他居然敢？\
+所以小仙女拉黑了我，单方面对我进行了枪毙。
