@@ -17,6 +17,7 @@
   * [女人分类](er-guan-yu-nv-ren/nv-ren-bu-kao-pu.md)
   * [为什么丑女也看不上你？](er-guan-yu-nv-ren/wei-shen-me-chounye-kan-bu-shang-ni.md)
   * [包法利夫人](er-guan-yu-nv-ren/bao-fa-li-fu-ren.md)
+  * [供养者面临的风险](er-guan-yu-nv-ren/gong-yang-zhe-mian-lin-de-feng-xian.md)
   * [女人案例汇总](er-guan-yu-nv-ren/nv-ren-de-shuang-biao.md)
   * [性欲问题](er-guan-yu-nv-ren/xing-yu-wen-ti.md)
 * [三、聊天篇](er-liao-tian-pian/README.md)
