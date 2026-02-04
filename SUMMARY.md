@@ -42,5 +42,5 @@
   * [女人不肯付出？](wu-guan-yu-xiang-qin-nv/nv-ren-bu-ken-fu-chu.md)
   * [确认关系and长期关系](wu-guan-yu-xiang-qin-nv/que-ren-guan-xi-and-chang-qi-guan-xi.md)
   * [典型相亲女案例](wu-guan-yu-xiang-qin-nv/dian-xing-xiang-qin-nv-an-li.md)
-  * [谨防心机婊](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
+  * [谨防顶级捞女](wu-guan-yu-xiang-qin-nv/xin-ji-biao-an-li.md)
   * [笔者实战感悟](wu-guan-yu-xiang-qin-nv/bi-zhe-shi-zhan-gan-wu.md)
